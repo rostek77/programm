@@ -101,3 +101,54 @@
   101  ./program4.o
   102  git init
   103  history >readme.md
+  104  nano program4.c
+  105  gcc program4.c -o program4.o
+  106  nano program4.c
+  107  gcc program4.c -o program4.o
+  108  nano program4.c
+  109  gcc program4.c -o program4.o
+  110  nano program4.c
+  111  gcc program4.c -o program4.o
+  112  nano program4.c
+  113  gcc program4.c -o program4.o
+  114  nano program4.c
+  115  gcc program4.c -o program4.o
+  116  nano program4.c
+  117  gcc program4.c -o program4.o
+  118  nano program4.c
+  119  gcc program4.c -o program4.o
+  120  nano program4.c
+  121  gcc program4.c -o program4.o
+  122  nano program4.c
+  123  gcc program4.c -o program4.o
+  124  nano program4.c
+  125  gcc program4.c -o program4.o
+  126  nano program4.c
+  127  gcc program4.c -o program4.o
+  128  nano program4.c
+  129  gcc program4.c -o program4.o
+  130  ./program4.o
+  131  git add .
+  132  fit ststus
+  133  git ststus
+  134  git status
+  135  git commit -m "programm"
+  136  git remote add origin https://github.com/rostek77/programm.git
+  137  git push -u origin master
+  138  git status
+  139  git commit -m "programy"
+  140  git init
+  141  git remote add origin https://github.com/rostek77/programm.git
+  142  git push -u origin master
+  143  git status
+  144  git commit -m "programmm"
+  145  git config --global user.email "rostek77@o2.pl"
+  146  git config --global user.name "rostek77"
+  147  git commit -m "programmm"
+  148  git remote -v
+  149  git push -u orgin master
+  150  git remote remove origin
+  151  git remote -v
+  152  git remote add origin https://github.com/rostek77/programm.git
+  153  git push -u origin master
+  154  history >readme.md
